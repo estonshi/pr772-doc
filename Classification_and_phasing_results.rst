@@ -1,7 +1,7 @@
 -------------
 Results
 -------------
-Result_ contains the indexes of single-hit patterns in raw dataset, determined by three algorithms. For every method there are 8 text files which has the same name with input dataset. Every line in the file is a single-hit pattern index, for example:
+Result_ contains the indexes of single-hit patterns in raw dataset, determined by three algorithms. For every method there are 8 text files which has the same names with input data files. Every line in the file is a single-hit pattern index, for example:
 ::
 	10
 	11
